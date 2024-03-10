@@ -1,0 +1,127 @@
+body{
+    background-color: #293251;
+}
+
+.container{
+    width: 300px;    
+    background-color: #FFF;
+    
+    display: block;
+    margin: 0 auto;
+    
+    border-radius: 10px;
+    padding-bottom : 50px;
+}
+
+.apptitle{
+    width: 300px;
+    height: 50px;
+    border-radius: 10px 10px 0 0;
+}
+
+.apptitle p{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    padding: 15px;
+    margin: 0 auto;
+    font-size: 1.2em;
+    color: #293251;
+}
+
+.notif{
+    background-color: #f8d7da;
+    display: none;
+}
+
+.notif p{
+    color: #721c24;
+    font-size: 1.2em;
+    margin: 0;
+    text-align: center;
+    padding: 10px 0;
+}
+
+.search{
+    text-align: center;
+}
+
+.weather-cont{
+    width: 300px;
+    height: 260px;
+    background-color: #F4F9FF;
+}
+
+.icon{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    height: auto;
+}
+
+.icon img{
+    display: block;
+    margin: 0 auto;
+    width: 150px;
+    height: 150px;
+}
+
+.temp{
+    width: 300px;
+    height:60px;
+}
+
+.temp p{
+    padding: 0;
+    margin: 0;
+    color: #293251;
+    font-size: 4em;
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+    background-color: #293251;
+}
+a:visited{
+    color:khaki ;
+}
+a:link{
+    color: aqua;
+}
+a:hover{
+    color: green;
+}
+
+.temp span{
+    color: #293251;
+    font-size: 0.5em;
+}
+
+
+
+.apparentTemp p{
+    padding: 8px;
+    margin: 0;
+    color: #293251;
+    text-align: center;
+    font-size: 1.2em;
+}
+
+
+.city p{
+    margin: 0;
+    padding: 0;
+    color: #293251;
+    text-align: center;
+    font-size: 2em;
+}
+
+
+.location p{
+    margin: 0;
+    padding: 0;
+    color: #293251;
+    text-align: center;
+    font-size: 0.8em;
+}
